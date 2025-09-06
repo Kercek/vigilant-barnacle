@@ -1,0 +1,12 @@
+1. adım: git init
+2. adım: yaptığın işlem
+3. adım: git add . 
+4. adım: git commit -m 'mesajın' 
+5. adım: git remote add origin -link- 
+6. adım git push origin main
+7. adım: git checkout -b new-branch
+8. adım: değişiklikler yapıp 6. adım ile pushlamak
+9. adım merge pull requesti admininonaylaması ve new-branchin main branche katılması
+10. adım: sende olmayan dosyaları almak için 'git pull origin main' 
+*git branch ile branchleri görebilirsin
+*git checkout branch-name ile o branche dönüp işlem yapabilirsin. eski branchleri görmek istiyorsan git log yapabilirsin.
