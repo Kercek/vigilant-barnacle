@@ -10,3 +10,5 @@
 10. adım: sende olmayan dosyaları almak için 'git pull origin main' 
 *git branch ile branchleri görebilirsin
 *git checkout branch-name ile o branche dönüp işlem yapabilirsin. eski branchleri görmek istiyorsan git log yapabilirsin.
+*git checkout -b branch-name yapıp bulunduğun committen branch çıkartabilirsin
+*git checkout -50 milyon basamaklı log sayısı- yapıp o commite geri dönebilirsin
